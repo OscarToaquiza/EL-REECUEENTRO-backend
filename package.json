@@ -1,0 +1,16 @@
+{
+  "name": "elreencuentro",
+  "version": "1.0.0",
+  "description": "elreencuentro granja ecologica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "oscar toaquiza",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.11",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
