@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors'); 
+const path = require('path');
 
 //console.log(process.env);
 
@@ -18,6 +19,11 @@ app.use(express.static('public'));
 const email_send = require('./routes/email_send.routes');
 
 app.use('/api/send/email',email_send);
+
+app.get('*',(req,res)=>{
+    res.sendFile(  path.resolve(__dirname, 'public/index.html') );
+});
+
 
 app.listen( 3000, () => {
     console.log("Servidor corriendo en el puerto " + 3000);
