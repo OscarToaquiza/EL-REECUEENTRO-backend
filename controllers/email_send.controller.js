@@ -1,5 +1,6 @@
 const { response } = require('express');
 const nodemailer = require('nodemailer');
+const smtpTransport = require('nodemailer-smtp-transport');
 
 const reservacionCtrl = async (req,res = response) => {
 
@@ -14,8 +15,10 @@ const reservacionCtrl = async (req,res = response) => {
     } = req.body;
 
     try {        
+
+        console.log(req.body);
       
-        const transporter = nodemailer.createTransport({
+        const transporter = nodemailer.createTransport(smtpTransport({
             host: 'smtp.gmail.com',
             port: 465,
             transportMethod: 'SMTP',
@@ -23,7 +26,7 @@ const reservacionCtrl = async (req,res = response) => {
                 user: 'elreencuentroreservas@gmail.com',
                 pass: 'Arcadenoe20'
             }
-        });
+        }));
         
         // send email
         const email = await transporter.sendMail({
