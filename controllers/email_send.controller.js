@@ -18,14 +18,14 @@ const reservacionCtrl = async (req,res = response) => {
         const transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
             auth: {
-                user: 'awaysoftware.info@gmail.com',
-                pass: '01ago2018M'
+                user: 'elreencuentroreservas@gmail.com',
+                pass: 'Arcadenoe20'
             }
         });
         
         // send email
         const email = await transporter.sendMail({
-            from: 'awaysoftware.info@gmail.com',
+            from: 'elreencuentroreservas@gmail.com',
             to: correo,
             subject: '-RESERVA EL REENCUENTRO-',
             html: `Hola ${nombres} ${apellidos} hemos resivido tu correo electronico de manera segura.
@@ -76,14 +76,14 @@ const contactoCtrl = async (req,res = response) => {
         const transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
             auth: {
-                user: 'awaysoftware.info@gmail.com',
-                pass: '01ago2018M'
+                user: 'elreencuentroreservas@gmail.com',
+                pass: 'Arcadenoe20'
             }
         });
         
         // send email
         const email = await transporter.sendMail({
-            from: 'awaysoftware.info@gmail.com',
+            from: 'elreencuentroreservas@gmail.com',
             to: correo,
             subject: '-CONTACTOS EL REENCUENTRO-',
             html: `Hola ${nombres} ${apellidos} hemos resivido tu correo electronico de manera segura.
