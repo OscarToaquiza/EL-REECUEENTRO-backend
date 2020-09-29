@@ -38,6 +38,7 @@ const reservacionCtrl = async (req,res = response) => {
             Observación: ${observacion} <br>
             `
         },(err) => {
+            console.log(err);
             if(err){
                 res.status(500).json({
                     ok: false
@@ -48,8 +49,6 @@ const reservacionCtrl = async (req,res = response) => {
                 });
             }
         });
-
-        console.log(email);
 
     } catch (error) {
         console.log(error);
