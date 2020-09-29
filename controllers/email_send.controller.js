@@ -17,6 +17,8 @@ const reservacionCtrl = async (req,res = response) => {
       
         const transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
+            port: 465,
+            transportMethod: 'SMTP',
             auth: {
                 user: 'elreencuentroreservas@gmail.com',
                 pass: 'Arcadenoe20'
@@ -74,6 +76,8 @@ const contactoCtrl = async (req,res = response) => {
       
         const transporter = nodemailer.createTransport({
             host: 'smtp.gmail.com',
+            port: 465,
+            transportMethod: 'SMTP',
             auth: {
                 user: 'elreencuentroreservas@gmail.com',
                 pass: 'Arcadenoe20'
