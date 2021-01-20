@@ -20,9 +20,15 @@ const email_send = require('./routes/email_send.routes');
 
 app.use('/api/send/email',email_send);
 
+app.get('/sitemap.xml', function(req, res) {
+    res.header('Content-Type', 'application/xml');
+    res.render('sitemap.xml');
+    });
+
 app.get('*',(req,res)=>{
     res.sendFile(  path.resolve(__dirname, 'public/index.html') );
 });
+
 
 
 app.listen( 3000, () => {
