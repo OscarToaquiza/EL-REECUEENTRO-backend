@@ -1,5 +1,4 @@
 const { response } = require('express');
-const smtpTransport = require('nodemailer-smtp-transport');
 const mailjet = require('node-mailjet').connect('057ae2584c3e4bee3ec46a8f5b7626a8', 'cd70018c0ae8953b916bcbd523587444')
 
 const cuerpoEmail = `<body style="background-color:#F4F4F4;">
