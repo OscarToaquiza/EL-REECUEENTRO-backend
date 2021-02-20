@@ -1,0 +1,32 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>https://el-reencuentro.com/inicio</loc>
+    <lastmod>2020-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+</url>
+<url>
+    <loc>https://el-reencuentro.com/actividades-general</loc>
+     <lastmod>2020-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+</url>
+<url>
+    <loc>https://el-reencuentro.com/galeria</loc>
+     <lastmod>2020-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+</url>
+<url>
+    <loc>https://el-reencuentro.com/ubicacion</loc>
+    <lastmod>2020-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+</url>
+<url>
+    <loc>https://el-reencuentro.com/contactos</loc>
+    <lastmod>2020-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+</url>
+</urlset>

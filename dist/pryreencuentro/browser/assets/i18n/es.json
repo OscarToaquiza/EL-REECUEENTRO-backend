@@ -1,0 +1,129 @@
+{
+    "inicio":"inicio",
+    "acerca":{
+        "acerca":"acerca",
+        "historia":"Historia",
+        "mision":"Misión",
+        "vision":"Visión",
+        "textoUno":"\"EL RENCUENTRO\" (granja, aventura y naturaleza); nace con la ideología de ejercer el turismo familiar dentro de la Parroquia de Machachi; rescatando así la historia de nuestra familia. ",
+        "textoDos":"Una familia que creció en el campo aprendiendo amar cada uno de sus paisajes y de las actividades que se realizan aquí; una familia con valores que desean seguir perpetuándolas en sus actuales generaciones. El amor al campo que nos dejó como herencia nuestros queridos abuelitos José Domingo Pilicita un hombre trabajador, de varios oficios como carpintero, agricultor y perteneció a la banda Municipal del Cantón Mejía y Maria Transito Pilicita Caiza una mujer amorosa, humilde y trabajadora, ellos fueron padres de 10 hijos; gracias a ellos aprendimos del amor a la tierra. ",
+        "textoTres":"Es así que sus nietos Mayra y Alexis Luje Pilicita;  Galo y Lidia Pilicita Pilicita deciden construir un proyecto basado en las memorias de una infancia sencilla, tomando leche recién ordeñada, comiendo chamburo; todas esas experiencias han formado un sueño que a través del turismo será una manera de enseñar a valorar, amar, proteger la vida y la naturaleza; basándonos en la filosofía de la conexión de cuerpo, alma, espíritu con el entorno natural, manteniendo así armonía en cada uno de estos aspectos.",
+        "textoMision":"Brindar el servicio de aventura y naturaleza con una infraestructura que da alusión al ambiente familiar, para dar a conocer el turismo rural del cantón Mejía a los turistas nacionales y extranjeros con responsabilidad conservando los valores, ya que creemos que la base de la sociedad es la familia.",
+        "textoVision":"Al 2023 llegar a ser una empresa líder en el servicio turístico que da a conocer la belleza de la aventura y naturaleza dentro del cantón Mejía con el mejor ambiente familiar para los turistas nacionales y extranjeros apoyados de la familia que conforma “EL REENCUENTRO” siempre con servicios diferenciados."
+    },
+    "galeria":{
+        "galeria":"galeria",
+        "fotos":"Fotos",
+        "caminata":"Caminata",
+        "camping":"Camping",
+        "casaArbol":"Casa del árbol",
+        "paisaje":"Paisaje",
+        "campingNoche":"Camping Noche",
+        "puente":"Puente",
+        "fauna":"Fauna",
+        "deportes":"Deportes",
+        "restaurante":"Restaurante",
+        "vistaPuente":"Vista Puente",
+        "vistaPaisaje":"Vista paisaje",
+        "mascota":"Mascotas"
+    },
+    "actividades":{
+        "actividades":"Actividades",
+        "actividadDetalle":"Selecciona la activdad para ver mas detalles",
+        "ver":"VER",
+        "pronto":"Pronto",
+        "horarioAtencion":"Horario de atención",
+        "tiempo":"Tiempo",
+        "valor":"Precio",
+        "observaciones":"Observaciones",
+        "horas":"horas",
+        "minutos":"minutos",
+        "bloque1":"Contamos con personal capacitado, para brindar la seguridad necesaria y la mejor experiencia del deporte de escala, con",
+        "bloque2":" todas las medidas de bioseguridad necesarias ",
+        "bloque3":"para salvaguardar la salud de nuestros clientes."
+    },
+    "casaArbol":{
+        "casaArbol":"Casa del Árbol",
+        "textoUno":"Casa árbol​ es una casa o caseta de madera construida en las ramas de un árbol, o cerca del tronco de uno o varios árboles. Pueden diseñarse para ser habitadas, o también para uso recreativo de los niños.",
+        "observacion1":"Por persona",
+        "observacion2":"A partir de 6 personas previa reservación",
+        "observacion3":"Al momento grupos que superen las 5 personas"
+    },
+    "paredEscalada":{
+        "paredEscalada":"Pared de Escalada",
+        "texto1":"El Reencuentro, abre sus puertas a los amantes de la Aventura y Naturaleza con la apertura de la primera pared de escalada dentro de la parroquia de Machachi, para experimentados y principiantes que quieran formar parte de la práctica de este deporte y conocer más del turismo rural del Barrio Puichig.",
+        "observacion1":"Por persona",
+        "observacion2":"A partir de 6 personas previa reservación",
+        "observacion3":"Al momento grupos que superen las 5 personas",
+        "observacion4":"6 Personas",
+        "observacion5":"El costo es por intergante mensual",
+        "observacion6":"Un dia de lunes a jueves y otro de viernes a domingo",
+        "observacion7":"Por persona adultos",
+        "observacion8":"1 escalada y una o dos repeleadas",
+        "observacion9":"Niñ@ de 10 - 12 años",
+        "observacion10":"1 escalada y una o dos repeleadas",
+        "tabla2":"Personas Afiliadas",
+        "tabla3":"Turistas en General"
+    },
+    "granja":{
+        "granja":"Granja"
+    },
+    "camping":{
+        "camping":"Camping"
+    },
+    "restaurante":{
+        "restaurante":"Restaurante"
+    },
+    "rutaEcologico":{
+        "rutaEcologico":"Rutas Ecológicas"
+    },
+    "ubicacion":{
+        "ubicacion":"ubicación",
+        "referencias":"Referencias para llegar ...",
+        "comoLlegar":"¿Como llegar? desde mi ubicación"
+    },
+    "contacto":{
+        "contacto":"Contactos",
+        "cabecera":"Envia sugerencias, problemas o información estaremos gustosos de responder tus mensajes.",
+        "nombres":"Nombres*",
+        "apellidos":"Apellidos*",
+        "email":"Correo electrónico*",
+        "telefono":"Teléfono de contacto*",
+        "msg":"Mensaje, sugerencia y más...",
+        "campoObligatorio":"Este campo es obligatorio",
+        "pie":"Todos los campos son necesarios para poder contactarte(*)",
+        "enviar":"Enviar"
+    },
+    "reservas":{
+        "reservas":"reservas",
+        "nombres":"Nombres",
+        "apellidos":"Apellidos",
+        "email":"Correo electrónico",
+        "telefono":"Teléfono",
+        "fechaPrevista":"Fecha Prevista",
+        "numeroPersonas":"Número de Personas",
+        "observacionPersonal":"Observación adicional",
+        "enviar":"Enviar",
+        "cancelar":"Cancelar",
+        "campoObligatorio":"Este campo es obligatorio",
+        "emailError":"El correo no es válido, es obligatorio",
+        "telefonoContacto":"Teléfono de contacto"
+    },
+    "home":{
+        "frase":" “Cuando conectamos la educación con el turismo, estamos uniendo dos fuerzas que pueden hacer de este mundo, un lugar mejor” -Taleb Rifai",
+        "texto":"Siempre enfocada al turismo rural con diversas actividades",
+        "granja":"Granja",
+        "aventura":"Aventura",
+        "naturaleza":"Naturaleza"
+    },
+    "footer":{
+        "texto":"El Reencuentro esta ubicado en el Cantón Mejía, barrio Puichig. Siempre enfocada al turismo rural con diversas actividades",
+        "redes":"Redes Sociales",
+        "detalleContacto":"Detalles de Contacto",
+        "aceptamosTarjetas":"Aceptamos todas las Tarjetas de Crédito"
+    },
+    "LANGUAGE": {
+        "ES": "Español",
+        "EN": "Inglés"
+    }
+}

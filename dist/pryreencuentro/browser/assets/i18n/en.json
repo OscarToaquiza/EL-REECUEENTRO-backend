@@ -1,0 +1,129 @@
+{
+    "inicio":"home",
+    "acerca":{
+        "acerca":"about",
+        "historia":"History",
+        "mision":"Mission",
+        "vision":"Vision",
+        "textoUno":" \"EL RENCUENTRO\" (farm, adventure and nature); It was born with the ideology of exercising family tourism within the parish of Machachi; thus rescuing the history of our family.",
+        "textoDos":"A family that grew up in the countryside learning to love each of its landscapes and the activities that take place here; a family with values ​​that want to continue to perpetuate them in their current generations. The love of the countryside that our dear grandparents José Domingo Pilicita left us as an inheritance, a hardworking man, of various trades such as carpenter, farmer and belonged to the Municipal Band of Cantón Mejía and Maria Transito Pilicita Caiza a loving, humble and hard-working woman, parents of 10 children; Thanks to them we learned about love for the land.",
+        "textoTres":"Thus, his grandchildren Mayra and Alexis Luje Pilicita; Galo and Lidia Pilicita Pilicita decide to build a project based on the memories of a simple childhood, drinking freshly milked milk, eating chamburo; All these experiences have formed a dream that through tourism will be a way of teaching to value, love, protect life and nature; based on the philosophy of the connection of body, soul, spirit with the natural environment, thus maintaining harmony in each of these aspects.",
+        "textoMision":"Provide the adventure and nature service with an infrastructure that refers to the family atmosphere, to make the rural tourism of the Mejía canton known to national and foreign tourists with responsibility while preserving values, since we believe that the basis of society is the family.",
+        "textoVision":"By 2023, it will become a leading company in the tourist service that makes known the beauty of adventure and nature within the Mejía canton with the best family atmosphere for national and foreign tourists supported by the family that makes up \"EL REENCUENTRO\" always with differentiated services."
+    },
+    "galeria":{
+        "galeria":"gallery",
+        "fotos":"Photos",
+        "caminata":"Hike",
+        "camping":"Camping",
+        "casaArbol":"Tree house",
+        "paisaje":"Landscape",
+        "campingNoche":"Camping Night",
+        "puente":"Bridge",
+        "fauna":"Fauna",
+        "deportes":"Sports",
+        "restaurante":"Restaurant",
+        "vistaPuente":"Bridge View",
+        "vistaPaisaje":"Landscape View",
+        "mascota":"Pets"
+    },
+    "actividades":{
+        "actividades":"Activities",
+        "actividadDetalle":"Select the activity to see more details",
+        "ver":"SEE",
+        "pronto":"Soon",
+        "horarioAtencion":"Hours of operation",
+        "tiempo":"Time",
+        "valor":"Price",
+        "observaciones":"Observations",
+        "horas":"hours",
+        "minutos":"minutes",
+        "bloque1":"We have trained personnel to provide the necessary security and the best sport experience, with",
+        "bloque2":" all the necessary biosecurity measures ",
+        "bloque3":"to safeguard the health of our clients."
+    },
+    "casaArbol":{
+        "casaArbol":"Tree house",
+        "textoUno":"Tree house is a wooden house or hut built in the branches of a tree, or near the trunk of one or more trees. They can be designed to be inhabited, or also for recreational use by children.",
+        "observacion1":"Per person",
+        "observacion2":"From 6 people prior reservation",
+        "observacion3":"At the moment groups that exceed 5 people"
+    },
+    "paredEscalada":{
+        "paredEscalada":"Climbing Wall",
+        "texto1":"El Reencuentro, opens its doors to lovers of Adventure and Nature with the opening of the first climbing wall within the parish of Machachi, for experienced and beginners who want to be part of the practice of this sport and learn more about rural tourism from the Puichig neighborhood.",
+        "observacion1":"Por persona",
+        "observacion2":"From 6 people prior reservation",
+        "observacion3":"At the moment groups that exceed 5 people",
+        "observacion4":"6 People",
+        "observacion5":"The cost is per monthly payment",
+        "observacion6":"One day from Monday to Thursday and another from Friday to Sunday",
+        "observacion7":"Per adult person",
+        "observacion8":"1 climb and one or two repelled",
+        "observacion9":"Child 10 - 12 years old",
+        "observacion10":"1 climb and one or two repelled",
+        "tabla2":"Affiliate Persons",
+        "tabla3":"Tourists in General"
+    },    
+    "granja":{
+        "granja":"Farm"
+    },
+    "camping":{
+        "camping":"Camping"
+    },
+    "restaurante":{
+        "restaurante":"Restaurant"
+    },
+    "rutaEcologico":{
+        "rutaEcologico":"ECOLOGICAL PATHWAY"
+    },
+    "ubicacion":{
+        "ubicacion":"location",
+        "referencias":"References to get there ...",
+        "comoLlegar":"How to get? from my location"
+    },
+    "contacto":{
+        "contacto":"Contacts",
+        "cabecera":"Send suggestions, problems or information, we will be happy to answer your messages.",
+        "nombres":"Names*",
+        "apellidos":"Surname*",
+        "email":"Email*",
+        "telefono":"Telephone contact*",
+        "msg":"Message, suggestion and more ...*",
+        "campoObligatorio": "This field is mandatory",
+        "pie":"All fields are necessary to be able to contact (*)",
+        "enviar":"Send"
+    },
+    "reservas":{
+        "reservas":"Bookings",
+        "nombres": "Names",
+        "apellidos": "Surname",
+        "email": "Email",
+        "telefono": "Telephone",
+        "fechaPrevista": "Expected date",
+        "numeroPersonas": "Number of People",
+        "observacionPersonal": "Additional observation",
+        "enviar": "Send",
+        "cancelar": "Cancel",
+        "campoObligatorio": "This field is mandatory",
+        "emailError":"The email is not valid, it is required",
+        "telefonoContacto":"Telephone contact"
+    },
+    "home":{
+        "frase":" “When we connect education with tourism, we are joining two forces that can make this world a better place” -Taleb Rifai",
+        "texto":"Always focused on rural tourism with various activities",
+        "granja":"Farm",
+        "aventura":"Adventure",
+        "naturaleza":"Nature"
+    },
+    "footer":{
+        "texto":"El Reencuentro is located in the Mejía canton, Puichig neighborhood. Always focused on rural tourism with various activities",
+        "redes":"Social Networks",
+        "detalleContacto":"Contact details",
+        "aceptamosTarjetas":"We accept all credit cards"
+    },
+    "LANGUAGE": {
+        "ES": "Spanish",
+        "EN": "English"
+    }
+}
