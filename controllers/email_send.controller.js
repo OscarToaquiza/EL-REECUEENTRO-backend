@@ -306,7 +306,7 @@ const contactLocal = async (req, res = response) => {
           ],
           "Subject": "Contacto",
           "HTMLPart": `
-                    Email resivido de la pagina de CONTACTOS <br>
+                    Email obtenido de la página de CONTACTOS <br>
                     Infromación obtenida <br>
                     Nombres: ${nombres} <br>
                     Apellidos: ${apellidos} <br>
@@ -406,6 +406,7 @@ const reservacionLocal = async (req, res = response) => {
               Datos obtenidos de <strong> CONSULTA - RESERVA <strong> <br>
               Nombres: ${nombres} <br>
               Apellidos: ${apellidos} <br>
+              Correo: ${correo} <br>
               Telefono: ${telefono} <br>
               Fecha Prevista: ${fechaPrevista} <br>
               Numero Personas: ${numPersonas} <br>
