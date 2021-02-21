@@ -39,7 +39,7 @@ style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical
                 <tbody>
                   <tr>
                     <td style="width:600px;" class="mj-full-width-mobile"><img alt="" height="auto"
-                        src="https://el-reencuentro.com/assets/images/granja/el_rencuentro.png"
+                        src="http://el-reencuentro.com/assets/images/granja/el_rencuentro.png"
                         style="border:none;border-radius:25px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;"
                         width="600"></td>
                   </tr>
